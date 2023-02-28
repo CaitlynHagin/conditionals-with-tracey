@@ -101,3 +101,24 @@ function objectLoop() {
 
 
 objectLoop()
+
+
+
+// unfinished example
+
+function numbers() {
+
+let numberArray = []
+
+let number = Math.floor(Math.random() *100);
+
+if (numberArray.includes <= 10) 
+else 
+{
+
+}
+
+}
+
+numbers()
+
